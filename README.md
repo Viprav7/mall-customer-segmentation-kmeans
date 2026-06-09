@@ -20,3 +20,11 @@ This project applies unsupervised machine learning to a retail dataset containin
 * Successfully isolated 5 clean, non-overlapping customer clusters.
 * Provided actionable business insights on how to target different segments based on income-to-spending ratios.
 <img width="3092" height="1658" alt="customer_clusters_plot" src="https://github.com/user-attachments/assets/b91e82c6-86b9-4b87-ac84-4c7acc124927" />
+
+* Cluster 2 (Green - Top Left): "The Careless Spenders." Low income, but incredibly high spending scores. They buy everything in sight despite a tight budget.
+
+* Cluster 1 (Orange - Top Right): "The Gold Mines / VIPs." High income AND high spending scores. These are the mall’s most valuable customers. Marketing teams target them aggressively with luxury rewards.
+
+* Cluster 0 & 3 (Blue and Red - Center): "The Average Joes." They sit right in the middle for both income and spending. They represent the steady, predictable revenue baseline for standard stores.
+
+* Cluster 4 (Purple - Bottom Right): "The Frugal High-Earners." High income, but incredibly low spending scores. They have deep pockets but choose to save their money. A marketing team would target these individuals with high-value discount coupons or loyalty incentives to get them to spend.
